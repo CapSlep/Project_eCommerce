@@ -177,7 +177,7 @@ p {
 
     height: 716px;
     padding-top: 110px;
-    background: url("/img/scandinavian-interior-mockup-wall-decal-background\ 1.png") center no-repeat #ededed;
+    background: url("../img/scandinavian-interior-mockup-wall-decal-background 1.png") center no-repeat #ededed;
     background-size: cover;
 }
 
@@ -633,7 +633,7 @@ p {
 .swiper-pagination-bullet-active {
     width: 27px;
     height: 27px;
-    background: url(/img/svg/Inspirations/Active.svg);
+    background: url("../img/svg/Inspirations/Active.svg");
 }
 
 .swiper__custom-nav {
@@ -643,7 +643,7 @@ p {
 .swiper-button-prev {
     height: 48px;
     width: 48px;
-    background-image: url("/img/svg/Inspirations/next.svg");
+    background-image: url("../img/svg/Inspirations/next.svg");
     background-repeat: no-repeat;
     background-size: 100% auto;
     background-position: center;
@@ -654,7 +654,7 @@ p {
 .swiper-button-next {
     height: 48px;
     width: 48px;
-    background-image: url("/img/svg/Inspirations/next.svg");
+    background-image: url("../img/svg/Inspirations/next.svg");
     background-repeat: no-repeat;
     background-size: 100% auto;
     background-position: center;
